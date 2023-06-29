@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("now is in the branch hot-fix1!");
+	printf("now is in the branch master!");
 	return 0;
 }
